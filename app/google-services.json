@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "156594585784",
+    "firebase_url": "https://miniproject2aousalnima.firebaseio.com",
+    "project_id": "miniproject2aousalnima",
+    "storage_bucket": "miniproject2aousalnima.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156594585784:android:139ac18761771ad4",
+        "android_client_info": {
+          "package_name": "com.example.mini_project_2_aous_alnima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156594585784-amar3j6okjtim22vekgt9fv06t8dena3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mini_project_2_aous_alnima",
+            "certificate_hash": "faf3085519bebf2f62a598f3fecf0d536077fd20"
+          }
+        },
+        {
+          "client_id": "156594585784-vlmb6bped0s2lb2vs19n3i0ckc0eldm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3kuJfbp7L3qTlPSta-oknZQMXS6qQqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156594585784-vlmb6bped0s2lb2vs19n3i0ckc0eldm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
